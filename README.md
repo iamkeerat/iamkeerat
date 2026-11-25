@@ -4,7 +4,7 @@
 
 **Data Analyst | AI Engineer | MSc Artificial Intelligence Graduate**
 
-Basingstoke, UK | Open to data, AI engineering, and IT support roles
+ United Kingdom | Open to data, AI engineering, and IT support roles
 
 [![Email](https://img.shields.io/badge/Email-keeratanmol%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:keeratanmol@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-iamkeerat-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/iamkeerat)
